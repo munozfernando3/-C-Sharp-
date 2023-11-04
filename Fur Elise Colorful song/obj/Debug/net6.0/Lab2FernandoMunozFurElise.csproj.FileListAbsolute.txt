@@ -1,0 +1,15 @@
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\bin\Debug\net6.0\Lab2FernandoMunozFurElise.exe
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\bin\Debug\net6.0\Lab2FernandoMunozFurElise.deps.json
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\bin\Debug\net6.0\Lab2FernandoMunozFurElise.runtimeconfig.json
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\bin\Debug\net6.0\Lab2FernandoMunozFurElise.dll
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\bin\Debug\net6.0\Lab2FernandoMunozFurElise.pdb
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\obj\Debug\net6.0\Lab2FernandoMunozFurElise.csproj.AssemblyReference.cache
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\obj\Debug\net6.0\Lab2FernandoMunozFurElise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\obj\Debug\net6.0\Lab2FernandoMunozFurElise.AssemblyInfoInputs.cache
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\obj\Debug\net6.0\Lab2FernandoMunozFurElise.AssemblyInfo.cs
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\obj\Debug\net6.0\Lab2FernandoMunozFurElise.csproj.CoreCompileInputs.cache
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\obj\Debug\net6.0\Lab2FernandoMunozFurElise.dll
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\obj\Debug\net6.0\refint\Lab2FernandoMunozFurElise.dll
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\obj\Debug\net6.0\Lab2FernandoMunozFurElise.pdb
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\obj\Debug\net6.0\Lab2FernandoMunozFurElise.genruntimeconfig.cache
+C:\Users\munoz\code\lab\Lab2FernandoMunozFurElise\obj\Debug\net6.0\ref\Lab2FernandoMunozFurElise.dll
