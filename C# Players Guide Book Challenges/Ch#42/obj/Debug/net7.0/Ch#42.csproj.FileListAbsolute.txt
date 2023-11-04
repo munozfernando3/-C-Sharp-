@@ -1,0 +1,15 @@
+C:\Users\munoz\code\Challenges\Ch#42\bin\Debug\net7.0\Ch#42.exe
+C:\Users\munoz\code\Challenges\Ch#42\bin\Debug\net7.0\Ch#42.deps.json
+C:\Users\munoz\code\Challenges\Ch#42\bin\Debug\net7.0\Ch#42.runtimeconfig.json
+C:\Users\munoz\code\Challenges\Ch#42\bin\Debug\net7.0\Ch#42.dll
+C:\Users\munoz\code\Challenges\Ch#42\bin\Debug\net7.0\Ch#42.pdb
+C:\Users\munoz\code\Challenges\Ch#42\obj\Debug\net7.0\Ch#42.csproj.AssemblyReference.cache
+C:\Users\munoz\code\Challenges\Ch#42\obj\Debug\net7.0\Ch#42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\code\Challenges\Ch#42\obj\Debug\net7.0\Ch#42.AssemblyInfoInputs.cache
+C:\Users\munoz\code\Challenges\Ch#42\obj\Debug\net7.0\Ch#42.AssemblyInfo.cs
+C:\Users\munoz\code\Challenges\Ch#42\obj\Debug\net7.0\Ch#42.csproj.CoreCompileInputs.cache
+C:\Users\munoz\code\Challenges\Ch#42\obj\Debug\net7.0\Ch#42.dll
+C:\Users\munoz\code\Challenges\Ch#42\obj\Debug\net7.0\refint\Ch#42.dll
+C:\Users\munoz\code\Challenges\Ch#42\obj\Debug\net7.0\Ch#42.pdb
+C:\Users\munoz\code\Challenges\Ch#42\obj\Debug\net7.0\Ch#42.genruntimeconfig.cache
+C:\Users\munoz\code\Challenges\Ch#42\obj\Debug\net7.0\ref\Ch#42.dll

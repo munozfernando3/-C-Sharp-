@@ -1,0 +1,5 @@
+C:\Users\munoz\code\C1400\CHALLENGES\Bonus\obj\Debug\net6.0\Bonus.csproj.AssemblyReference.cache
+C:\Users\munoz\code\C1400\CHALLENGES\Bonus\obj\Debug\net6.0\Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\code\C1400\CHALLENGES\Bonus\obj\Debug\net6.0\Bonus.AssemblyInfoInputs.cache
+C:\Users\munoz\code\C1400\CHALLENGES\Bonus\obj\Debug\net6.0\Bonus.AssemblyInfo.cs
+C:\Users\munoz\code\C1400\CHALLENGES\Bonus\obj\Debug\net6.0\Bonus.csproj.CoreCompileInputs.cache
